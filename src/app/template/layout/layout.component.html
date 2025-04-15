@@ -27,7 +27,12 @@
           >
         </li>
         <li>
-          <a routerLink="/paginas" class="hover:text-yellow-300">Sair</a>
+          <a
+            (click)="logout()"
+            routerLink="/paginas"
+            class="hover:text-yellow-300"
+            >Sair</a
+          >
         </li>
       </ul>
     </nav>

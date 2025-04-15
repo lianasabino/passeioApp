@@ -1,0 +1,24 @@
+{
+  "categorias": [
+    {
+      "id": "2",
+      "nome": "Shoppings",
+      "descricao": "Lugares para fazer compras"
+    },
+    {
+      "id": "a2fa",
+      "nome": "praias",
+      "descricao": "Lugares para tomar banho com a familia"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "9159",
+      "nome": "Cumbuco",
+      "categoria": "praias",
+      "localizacao": "Fortaleza",
+      "urlFoto": "https://viagemeturismo.abril.com.br/wp-content/uploads/2016/12/foto-abre-01-copy-0u.jpg",
+      "avaliacao": "5"
+    }
+  ]
+}
